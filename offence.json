@@ -1,0 +1,32 @@
+[
+    {
+      "offence_id": "001",
+      "offence_type": "Speeding",
+      "vehicle_type": "Car",
+      "penalty": "200"
+    },
+    {
+      "offence_id": "002",
+      "offence_type": "Running a Red Light",
+      "vehicle_type": "Motorcycle",
+      "penalty": "300"
+    },
+    {
+      "offence_id": "003",
+      "offence_type": "Illegal Parking",
+      "vehicle_type": "Truck",
+      "penalty": "150"
+    },
+    {
+      "offence_id": "004",
+      "offence_type": "Reckless Driving",
+      "vehicle_type": "SUV",
+      "penalty": "500"
+    },
+    {
+      "offence_id": "005",
+      "offence_type": "Driving Without a License",
+      "vehicle_type": "Van",
+      "penalty": "400"
+    }
+  ]
